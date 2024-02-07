@@ -8,7 +8,7 @@ Contrato  cooperação entre a Direção Geral do Território e o Instituto Supe
 * Responsável pela execução: Manuel Campagnolo, CEF, DCEB, ISA, ULisboa
 * Procedimento CEXC/2152/2023
 * O contrato tem enquadramento no subprojecto «P1.5- Dados de deteção remota para a gestão
-florestal» (DRFloresta) do projeto Agenda Transform (Agenda para a transformação digital das
+florestal» (DRFloresta) do projeto [Agenda Transform](https://recuperarportugal.gov.pt/2022/07/28/transform/) (Agenda para a transformação digital das
 cadeias de valor florestais numa economia portuguesa mais resiliente e hipocarbónica), apoiado
 pelo Plano de Recuperação e Resiliência (PRR)
 * O contrato tem por objecto a realização de atividades de investigação e
